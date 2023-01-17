@@ -15,7 +15,9 @@ tasks are comparable.  Here are the tasks:
    ```
    cd Desktop/school/info201/labs
    ```
-Answer: `cd INFO201`
+Answer: ```
+        cd INFO201
+        ```
 
 1. **fork** this repository on Github under your user name (see
    [course book 4.6.1](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#forking-and-cloning)).
