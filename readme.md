@@ -15,7 +15,7 @@ tasks are comparable.  Here are the tasks:
    ```
    cd Desktop/school/info201/labs
    ```
-Answer: _cd INFO201_
+Answer: `cd INFO201`
 
 1. **fork** this repository on Github under your user name (see
    [course book 4.6.1](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#forking-and-cloning)).
@@ -25,7 +25,7 @@ Answer: _cd INFO201_
    Write the command you
    used underneath in a code block.
    
-Answer: _git clone https://github.com/nyadav18/lab2-git-markdown.git_
+Answer: `git clone https://github.com/nyadav18/lab2-git-markdown.git_`
    
 3. **add a new file** "books.md" to the repo.  You can use RStudio
    (file -> new file -> markdown file), or any other tool you find
@@ -62,7 +62,7 @@ Answer: I changed the markdown file in my own local copy of the repository, but 
   4.4.3](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-adding)).
   Show your command (as a
   code block).
-Answer: _git add ._
+Answer: `git add .`
 
 7. Was your add successful?  Check status again!  Explain what do you
    see.
@@ -71,11 +71,11 @@ Answer: My changes are staged and ready to be committed.
 8. Now **commit** your changes (see [course book
    4.4.4](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-committing)). 
    Put your command underneath in a code block.
-Answer: _git commit -am "lab 2 edits"_
+Answer: `git commit -am "lab 2 edits"`
    
 9. Was your commit successful?  How can you check it?  Show your
    command(s) as a code block and explain what you see!
-Answer: _git status_
+Answer: `git status`
 My branch is 1 commit ahead of main.
    
 10. Now **push** your changes to Github (see [course book 4.4.5](https://faculty.washington.edu/otoomet/info201-book/git-basics.html#git-basics-working-pushing)).  You may
